@@ -1,0 +1,30 @@
+
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3vw;
+    padding: 0;
+}
+
+div {
+    display: block;
+}
+
+.description {
+    padding: 10px;
+    margin: 0 10%;
+    width: 60%;
+}
+
+.container {
+    display: flex;
+    width: 60%;
+    margin: 10% auto;
+}
+h1 {
+    text-align: center;
+    font-size: x-large;
+}
+
+img {
+    width: 300px;
+}
